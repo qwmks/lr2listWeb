@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lr2list-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="lr2list-js.jar" />
+  </artifact>
+</component>
